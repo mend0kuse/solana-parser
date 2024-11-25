@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "memcoins-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js": "^2.0.0-rc.4",
+    "@types/axios": "^0.14.4",
+    "@types/lodash": "^4.17.13",
+    "@types/node": "^22.9.3",
+    "axios": "^1.7.7",
+    "canvas": "^2.11.2",
+    "chart.js": "^4.4.6",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2"
+  }
+}
